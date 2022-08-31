@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/code_with_me1" target="_blank">Anthony</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python and C++ developer</h3>
+
+- 🔭 I’m currently working on Python, C++, Machine Learning and Bot development 
+- 💬 I'm regulary write here - https://t.me/code_with_me1
+- 📫 How to reach me: romanenko.anton@gmail.com
 
 <!--
 **AnthonyRom12/AnthonyRom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python, C++, Machine Learning and Bot development 
+- 💬 I'm regulary write here - https://t.me/code_with_me1
+- 📫 How to reach me: romanenko.anton@gmail.com
+
+
