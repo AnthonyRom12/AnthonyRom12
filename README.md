@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python, C++, Machine Learning and Bot development 
 - 💬 I'm regulary write here - https://t.me/code_with_me1
-- 📫 How to reach me: romanenko.anton@gmail.com
+- 📫 How to reach me: romanenko.anton1221@gmail.com
 
 
