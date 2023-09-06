@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Anton Romanenko from Russia<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Java and JavaScript<br>- ⚡ In my free time I'm coding</p>
+<p align="left">I'm backend developer. I so much love coding.<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Java and JavaScript<br>- ⚡ In my free time I'm coding</p>
 
 ###
 
