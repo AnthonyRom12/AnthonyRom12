@@ -78,7 +78,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original-wordmark.svg" height="40" alt="keras logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="linkedin logo" />
+  <img width="12" />
 </div>
 
 ###
